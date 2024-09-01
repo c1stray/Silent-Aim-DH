@@ -1,4 +1,12 @@
---[[
+require "iup"
+
+button = iup.button{
+    title = "Silent Aim",
+    action = "enable_silent_aim"
+}
+
+function enable_silent_aim()
+	--[[
 
 oooooo     oooo ooooo     ooo ooooo   ooooo ooooooo  ooooo ooooo        oooooo   oooo  .oooooo..o 
  `888.     .8'  `888'     `8' `888'   `888'  `8888    d8'  `888'         `888.   .8'  d8P'    `Y8 
@@ -12,7 +20,7 @@ Made by @vuhxlys on discord.
 Free silent aim solara supported
 --]]
 
-  print("Silent Aim Has Successfully Loaded")
+    print("Made by @vuhxlys on discord.")
         getgenv().SilentAim = {
 	Settings = {
 		Enabled = true,
@@ -198,5 +206,4 @@ game.Players.LocalPlayer.Character.ChildAdded:Connect(function(tool)
         end)
     end
 end)
-
-    
+print("Silent Aim Was Loaded With 0 Errors.")
