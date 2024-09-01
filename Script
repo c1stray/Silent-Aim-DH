@@ -1,21 +1,15 @@
 --[[
-  
-     ,gggg,      88       ,gg,   ,ggggggggggggggg ,ggggggggggg,              ,ggg,  ,ggg,         gg 
-   ,88"""Y8b,  ,d88      i8""8i dP""""""88"""""""dP"""88""""""Y8,           dP""8I dP""Y8a        88 
-  d8"     `Y8888888      `8,,8' Yb,_    88       Yb,  88      `8b          dP   88 Yb, `88        88 
- d8'   8b  d8    88       `88'   `""    88        `"  88      ,8P         dP    88  `"  88        88 
-,8I    "Y88P'    88       dP"8,         88            88aaaad8P"         ,8'    88      88        88 
-I8'              88      dP' `8a        88            88""""Yb,          d88888888      88        88 
-d8               88     dP'   `Yb       88            88     "8b   __   ,8"     88      88       ,88 
-Y8,              88 _ ,dP'     I8 gg,   88            88      `8i dP"  ,8P      Y8      Y8b,___,d888 
-`Yba,,_____,     88 "888,,____,dP  "Yb,,8P            88       Yb,Yb,_,dP       `8b,     "Y88888P"88,
-  `"Y8888888     88 a8P"Y88888P"     "Y8P'            88        Y8 "Y8P"         `Y8          ,ad8888
-                                                                                             d8P" 88 
-                                                                                           ,d8'   88 
-                                                                                           d8'    88 
-                                                                                           88     88 
-                                                                                           Y8,_ _,88 
-                                                                                            "Y888P"  
+
+oooooo     oooo ooooo     ooo ooooo   ooooo ooooooo  ooooo ooooo        oooooo   oooo  .oooooo..o 
+ `888.     .8'  `888'     `8' `888'   `888'  `8888    d8'  `888'         `888.   .8'  d8P'    `Y8 
+  `888.   .8'    888       8   888     888     Y888..8P     888           `888. .8'   Y88bo.      
+   `888. .8'     888       8   888ooooo888      `8888'      888            `888.8'     `"Y8888o.  
+    `888.8'      888       8   888     888     .8PY888.     888             `888'          `"Y88b 
+     `888'       `88.    .8'   888     888    d8'  `888b    888       o      888      oo     .d8P 
+      `8'          `YbodP'    o888o   o888o o888o  o88888o o888ooooood8     o888o     8""88888P'  
+
+Made by @vuhxlys on discord.
+Free silent aim solara supported
 --]]
 
   print("Silent Aim Has Successfully Loaded")
